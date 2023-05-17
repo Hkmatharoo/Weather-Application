@@ -1,0 +1,20 @@
+body{
+    background-image: url(C:\Users\kmt\Desktop\React\firstapp\public\images\sky.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+.heading{
+    font-size: 64px;
+}
+.input{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+
+}
+.align{
+    text-align: center;
+    
+}
